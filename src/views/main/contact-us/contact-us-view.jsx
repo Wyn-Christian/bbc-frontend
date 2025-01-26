@@ -13,7 +13,7 @@ export const ContactUsView = () => {
   return (
     <>
       <MainHeader
-        imgUrl="/assets/about-us.jpg"
+        imgUrl="/bbc-frontend/assets/about-us.jpg"
         title="Contact us"
         subtitle="Where to find us?"
       >

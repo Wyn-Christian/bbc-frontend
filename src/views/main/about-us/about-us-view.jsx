@@ -9,7 +9,7 @@ export const AboutUsView = () => {
   return (
     <>
       <MainHeader
-        imgUrl="/assets/about-us.jpg"
+        imgUrl={`/bbc-frontend/assets/about-us.jpg`}
         title="About us"
         subtitle="Who we are?"
       >

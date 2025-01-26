@@ -66,10 +66,10 @@ const WhoWeAre = () => {
             }}
           >
             <Grid2 size={6}>
-              <ImageItem aspectRatio="1/1" src="/assets/about-us-1.jpg" />
+              <ImageItem aspectRatio="1/1" src="/bbc-frontend/assets/about-us-1.jpg" />
             </Grid2>
             <Grid2 size={6}>
-              <ImageItem aspectRatio="3/4" src="/assets/about-us-2.jpg" />
+              <ImageItem aspectRatio="3/4" src="/bbc-frontend/assets/about-us-2.jpg" />
             </Grid2>
           </Grid2>
           <Grid2 size={{ xs: 12, md: 6, lg: 5 }}>

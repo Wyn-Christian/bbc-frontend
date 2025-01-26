@@ -22,7 +22,7 @@ const Testimonials = () => {
             theme.vars.palette.grey["900Channel"],
             0.8
           )}, ${varAlpha(theme.vars.palette.grey["900Channel"], 0.8)}`,
-          imgUrl: "/assets/testimonials-bg.jpg",
+          imgUrl: "/bbc-frontend/assets/testimonials-bg.jpg",
         }),
       }}
     >

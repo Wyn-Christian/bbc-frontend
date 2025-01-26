@@ -16,7 +16,7 @@ export const FAQsView = () => {
   return (
     <>
       <MainHeader
-        imgUrl="/assets/faq-pic.jpg"
+        imgUrl="/bbc-frontend/assets/faq-pic.jpg"
         title="FAQ"
         subtitle="Have a question?"
       />

@@ -8,7 +8,7 @@ const ProductsItem = ({item}) => {
     <Box
       component="img"
       alt="product name"
-      src={`/assets/products/product-${item}.png`}
+      src={`/bbc-frontend/assets/products/product-${item}.png`}
       sx={{
         top: 0,
         width: 1,
